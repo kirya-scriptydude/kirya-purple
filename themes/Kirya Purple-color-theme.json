@@ -8,6 +8,10 @@
 		"sideBarTitle.foreground": "#bbbbbb",
 
 		"button.background": "#8538afc2",
+
+		"statusBar.background": "#ac49e186",
+		"statusBar.debuggingBackground": "#ac49e186",
+		"statusBar.noFolderBackground": "#ac49e186",
 	},
 	"tokenColors": [
 		{
