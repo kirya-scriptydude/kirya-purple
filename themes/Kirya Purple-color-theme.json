@@ -1,10 +1,13 @@
 {
 	"name": "Kirya Purple",
 	"colors": {
-		"editor.background": "#263238",
+		"focusBorder": "#ac49e127",
+		"editor.background": "#2a282b",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#b4a1be",
+		"sideBarTitle.foreground": "#bbbbbb",
+
+		"button.background": "#8538afc2",
 	},
 	"tokenColors": [
 		{
@@ -15,7 +18,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#999999"
 			}
 		},
 		{
@@ -25,7 +28,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#e8e1ec"
 			}
 		},
 		{
@@ -65,17 +68,11 @@
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
-				"punctuation.definition.tag",
-				"punctuation.separator.inheritance.php",
-				"punctuation.definition.tag.html",
-				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
-				"punctuation.section.embedded",
 				"keyword.other.template",
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#9b53c2"
 			}
 		},
 		{
@@ -99,7 +96,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#EBD3F8"
 			}
 		},
 		{
@@ -134,7 +131,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#fffd93"
 			}
 		},
 		{
@@ -146,10 +143,11 @@
 				"entity.other.inherited-class",
 				"markup.heading",
 				"markup.inserted.git_gutter",
-				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+				"punctuation.definition.string"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#ffea71d8"
 			}
 		},
 		{
@@ -267,7 +265,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#ff9582"
 			}
 		},
 		{
